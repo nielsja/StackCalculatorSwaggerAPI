@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackCalculatorWebAPISwagger", "StackCalculatorWebAPISwagger.csproj", "{CC1F6486-EB2A-4841-99C2-C8DE232DCB44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC1F6486-EB2A-4841-99C2-C8DE232DCB44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1F6486-EB2A-4841-99C2-C8DE232DCB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1F6486-EB2A-4841-99C2-C8DE232DCB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1F6486-EB2A-4841-99C2-C8DE232DCB44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {864754FC-427B-4124-B358-E76F0028C9DD}
+	EndGlobalSection
+EndGlobal
